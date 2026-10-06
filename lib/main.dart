@@ -237,7 +237,6 @@ class LeakGuardApp extends StatelessWidget {
   }
 }
 
-// Custom Logo Widget representing Shield + Financial Guard
 class LeakGuardLogo extends StatelessWidget {
   final double size;
   const LeakGuardLogo({super.key, this.size = 32});
@@ -882,7 +881,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-// Settings sheet that embeds the Snake Game
 class SettingsAndGameSheet extends StatefulWidget {
   const SettingsAndGameSheet({super.key});
 
